@@ -49,3 +49,5 @@ fonction triTableau(tab1, tab2)
 		Retourne tab3
 
 	fin
+Complexité O (n^2)
+
